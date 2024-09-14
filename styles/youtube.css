@@ -1,0 +1,16 @@
+
+p {
+   margin-top: 0;
+   margin-bottom: 0;
+   font-family: Roboto, Arial;
+}
+
+body {
+   margin: 0;
+   background-color: rgb(255, 247, 247);
+}
+.grid-container {
+   display:grid;
+   grid-template-columns: 75px 1fr;
+   gap: 0;
+}

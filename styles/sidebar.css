@@ -1,0 +1,42 @@
+.sidebar {
+   background-color: white;
+   margin-top: 56px;
+   z-index: 200;
+}
+/* side icon is a div */
+.side-icon:hover {
+   background-color: lightgray;
+}
+/* .side-icon  */
+.sidebar img
+{
+   height: 24px;
+   margin-bottom: 1px;
+   font-size: 0px;
+}
+.side-icon {
+   cursor: pointer;
+   padding-top: 5px;
+   flex-direction: column;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 70px;
+}
+/* .side-text {
+   font-size: x-small;
+} */
+.side-icon div {
+   font-family: Roboto, arial;
+   font-size: 10px;
+}
+/* .home-icon, .explore-icon,
+.subs-icon,
+.originals-icon,
+.youtube-music,
+.library */
+/* .sidebar img */
+
+.div-text {
+   font-size: xx-small;
+}
