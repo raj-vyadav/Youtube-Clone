@@ -1,7 +1,6 @@
 .sidebar {
    background-color: white;
    margin-top: 56px;
-   z-index: 200;
 }
 /* side icon is a div */
 .side-icon:hover {
