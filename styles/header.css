@@ -105,6 +105,7 @@
 .hambmenu-icon {
    margin-left: 20px;
    height:24.7px;
+   cursor: pointer;
 }
 .right-section {
    width: 190px;
