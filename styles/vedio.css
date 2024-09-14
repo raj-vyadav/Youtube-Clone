@@ -30,6 +30,11 @@
    }
 }
 
+@media screen and (max-width:414px) {
+   .container {
+      visibility: collapse;
+   }
+}
 .vedio-title {
    margin-top: 0;
    font-size: 16px;
